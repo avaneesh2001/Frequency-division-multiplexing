@@ -74,7 +74,7 @@ Frequency Modulation is the process of varying the frequency of the carrier sign
 The carrier frequency will be minimum (fc min) when the input signal is at its lowest. The carrier deviates from its normal value. The frequency of the carrier will be at its normal value (free-running) fc when the input signal value is 0V. There is no deviation in the carrier. The figure shows the frequency of the FM wave when the input is at its max, 0V, and at its min.
 
 ![Frequency modulation](https://github.com/avaneesh2001/Frequency-division-multiplexing/blob/main/images/Frequency_modulation.jpg)
-<p align='center'>Frequency Modulation</p>
+*Frequency Modulation*
 
 #### Mathematical Expression:
 $y(t) = A_c cos(2 \pi f_ct + \frac{f_\Delta}{f_m}sin(2 \pi f_mt))$
