@@ -164,9 +164,10 @@ Band Pass Filter is a frequency selective filter circuit used in electronic syst
 ### Guard Band
 A guard band is a narrow frequency range that separates two ranges of wider frequency. This ensures that simultaneously used communication channels do not experience interference, which would result in decreased quality for both transmissions\
 Guard bands are used in frequency division multiplexing (FDM). In FDM, a number of signals are sent simultaneously on the same network, allocating separate frequency bands or channels to each signal. Guard bands are used to avoid interference between two successive channels.\
-![Guard Band](https://github.com/avaneesh2001/Frequency-division-multiplexing/blob/main/images/Guard%20Band.jpg)
+<centre>![Guard Band](https://github.com/avaneesh2001/Frequency-division-multiplexing/blob/main/images/Guard%20Band.jpg)</centre>
 <p align='center'>Guard Band
 </p>
+
 
 ---
 
